@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640453357931",
+    "project_id": "cattle-app-firebase",
+    "storage_bucket": "cattle-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640453357931:android:a421e5160d692b5a30dc2e",
+        "android_client_info": {
+          "package_name": "com.example.cattle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGOruQkGXnRyZsYyoTd_YNgKUFKMVaDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
